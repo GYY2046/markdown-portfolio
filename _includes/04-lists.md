@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. t1
+2. t2 👍
+3. 🥇
+4. 😙
+5. 🫀
